@@ -8,7 +8,7 @@
 </head>
 <body>
 	
-	<h3>Formulário de Produtos</h3>
+	<h3>Formulário dos Produtos  </h3>
 	<form action="Controle?cmd=gravar" method="post">
 		Nome: <br>
 		<input type="text" name="nome">
